@@ -10,7 +10,7 @@ namespace Snap.Api
         /// <summary>
         /// Creates an assembler with default settings.
         /// </summary>
-        /// <returns>An ISnapAssembler instance.</returns>
+        /// <returns>A non-null ISnapAssembler instance.</returns>
         public static ISnapAssembler CreateDefault()
         {
             throw new NotImplementedException();

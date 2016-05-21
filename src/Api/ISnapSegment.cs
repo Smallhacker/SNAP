@@ -11,7 +11,7 @@
         uint Address { get; }
 
         /// <summary>
-        /// An array of raw ROM data.
+        /// A non-null array of raw ROM data.
         /// </summary>
         byte[] Data { get; }
     }
